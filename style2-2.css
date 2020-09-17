@@ -1,0 +1,70 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+body {
+    font-family: "Open Sans", Arial;
+    font-size: 16px;
+    line-height: 22.4px;
+    text-align: justify;
+    color: #d9d9d9;
+    height: 3704px;
+    width: 678px;
+    margin: 32px 0 32px 0;
+    padding: 16px 16px 16px 16px;
+    max-width: 800px;
+    display: block;
+    background-color: #000000;
+}
+
+.red {
+    color: #b00000;
+}
+
+.blue {
+    color: #00A2E7;
+}
+
+.picture {
+    height: 16px;
+    width: 16px;
+}
+
+.cat {
+    height: 167px;
+    width: 252px;
+}
+
+.logo {
+    height: 32px;
+    width: 32px;
+}
+
+.wrong {
+    color: #D24637;
+    text-decoration: underline;
+}
+
+.truc {
+    text-align: right;
+    font-size: 13px;
+    line-height: 18px;
+    text-decoration: underline;
+
+}
+
+.violet {
+     color: #551a8b;
+}
+
+.darkblue {
+    color: #0000EE;
+}
